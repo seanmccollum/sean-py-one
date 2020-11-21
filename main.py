@@ -1,4 +1,5 @@
-print("Hello, World!");
-print("Sean McCollum");
-print(5);
-print('suzanne');
+print("Hello, World!")
+print("Sean McCollum")
+print(54)
+print('Day 1 - Python Print Function')
+print("print('what to print')")
